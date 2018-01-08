@@ -9,6 +9,6 @@ How to Run?
 
 Type the following in terminal
 
-node app.js --address " <insert your location address>"
+node app-promise.js --address " <insert your location address>"
 or 
-node app.js -a " <insert your location address>"
+node app-promise.js -a " <insert your location address>"
